@@ -376,7 +376,7 @@
 
     <footer>
         <div class="social-links">
-            <a href="#" title="Twitter">🐦</a>
+            <a href="https://x.com/OneMILPump" title="Twitter">🐦</a>
             <a href="#" title="Discord">💬</a>
             <a href="#" title="Telegram">✈️</a>
             <a href="#" title="Reddit">🤖</a>
